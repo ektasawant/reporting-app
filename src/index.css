@@ -1,0 +1,34 @@
+:root {
+  color: rgba(255, 255, 255, 0.87);
+
+  background-color: #F7FAFF;
+
+  padding: 80px;
+
+  max-width: 1440px;
+
+  margin: 0 auto;
+
+}
+
+
+
+html,
+body {
+
+  height: 100%;
+
+  margin: 0;
+
+  padding: 0;
+
+  height: calc(100vh - 160px)
+}
+
+
+
+#root {
+
+  height: 100%;
+
+}
